@@ -5,13 +5,13 @@ const ap = new APlayer({
     audio: [
 	{
         name: 'Succession',
-        artist: '塞壬唱片-MSR / 北村友香',
+        artist: '北村友香',
         url: 'http://music.163.com/song/media/outer/url?id=2151081433.mp3',
         cover: 'http://p2.music.126.net/gQa7cvwUMrN3AbfpLJQVwQ==/109951169546079916.jpg?param=130y130',
     }, 
 	{
         name: 'Echoism',
-        artist: '塞壬唱片-MSR / Casey Lee Williams / Adam Gubman',
+        artist: ' Casey Lee Williams ',
         url: 'http://music.163.com/song/media/outer/url?id=2151230759.mp3',
         cover: 'http://p2.music.126.net/JKOtlxRYpzsqXxC3l07ivA==/109951169547216140.jpg?param=130y130',
    },
