@@ -4,10 +4,10 @@ const ap = new APlayer({
 	  autoplay: false, //关闭自动播放
     audio: [
        {
-        name: 'Symbol III : ▽',
-        artist: ' Ave Mujica ',
-        url: 'http://music.163.com/song/media/outer/url?id=2160763758.mp3',
-        cover: 'http://p2.music.126.net/CBd5ode623rwsqgk1DuGiA==/109951170225580494.jpg?param=130y130',
+        name: 'ALONE to ALONE',
+        artist: 'lasah ',
+        url: 'http://music.163.com/song/media/outer/url?id=426881812.mp3',
+        cover: 'http://p2.music.126.net/Xp9hKoRIwimmyJKfznIOQw==/109951169367435681.jpg?param=130y130',
     },
 
 	{
@@ -31,12 +31,18 @@ const ap = new APlayer({
         cover: 'http://p2.music.126.net/gQa7cvwUMrN3AbfpLJQVwQ==/109951169546079916.jpg?param=130y130',
     }, 
 
-           {
+        {
         name: 'Storyteller',
         artist: 'Miaa ',
         url: 'http://music.163.com/song/media/outer/url?id=2148767644.mp3',
         cover: 'http://p1.music.126.net/_MLhrrMyI3ULlA-zocDmSQ==/109951169525187211.jpg?param=130y130',
     },
-
+ 
+       {
+        name: 'Symbol III : ▽',
+        artist: ' Ave Mujica ',
+        url: 'http://music.163.com/song/media/outer/url?id=2160763758.mp3',
+        cover: 'http://p2.music.126.net/CBd5ode623rwsqgk1DuGiA==/109951170225580494.jpg?param=130y130',
+    },
 ]
 });
