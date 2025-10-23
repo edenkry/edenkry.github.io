@@ -4,6 +4,13 @@ const ap = new APlayer({
 	  autoplay: false, //关闭自动播放
     audio: [
        {
+        name: 'Twilight',
+        artist: 'Novectacle',
+        url: 'http://music.163.com/song/media/outer/url?id=1449639586.mp3',
+        cover: 'http://p2.music.126.net/MniY0Vwv5rb6f_mqyn95ew==/109951165003502285.jpg?param=130y130',
+    },
+
+       {
         name: 'ALONE to ALONE',
         artist: 'lasah ',
         url: 'http://music.163.com/song/media/outer/url?id=426881812.mp3',
