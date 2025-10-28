@@ -11,6 +11,13 @@ const ap = new APlayer({
     },
 
        {
+        name: 'Far Beyond the Stars',
+        artist: '照井順政 / Shania Yan ',
+        url: 'http://music.163.com/song/media/outer/url?id=2734216445.mp3',
+        cover: 'http://p2.music.126.net/ncJRO8JHrz_C0XeyQTLWmQ==/109951171267505811.jpg?param=130y130',
+    },
+      
+       {
         name: 'ALONE to ALONE',
         artist: 'lasah ',
         url: 'http://music.163.com/song/media/outer/url?id=426881812.mp3',
