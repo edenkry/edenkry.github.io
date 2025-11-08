@@ -9,6 +9,12 @@ const ap = new APlayer({
         url: 'http://music.163.com/song/media/outer/url?id=1449639586.mp3',
         cover: 'http://p2.music.126.net/MniY0Vwv5rb6f_mqyn95ew==/109951165003502285.jpg?param=130y130',
     },
+       {
+        name: 'JANE DOE',
+        artist: '米津玄師 / 宇多田ヒカル ',
+        url: 'http://music.163.com/song/media/outer/url?id=2747166493.mp3',
+        cover: 'http://p1.music.126.net/z8vkaskRIKrLhTZ0zrqzDg==/109951172028084335.jpg?param=130y130',
+    },
 
        {
         name: 'Far Beyond the Stars',
@@ -16,15 +22,22 @@ const ap = new APlayer({
         url: 'http://music.163.com/song/media/outer/url?id=2734216445.mp3',
         cover: 'http://p2.music.126.net/ncJRO8JHrz_C0XeyQTLWmQ==/109951171267505811.jpg?param=130y130',
     },
-      
-       {
+
+      {
         name: 'ALONE to ALONE',
         artist: 'lasah ',
         url: 'http://music.163.com/song/media/outer/url?id=426881812.mp3',
         cover: 'http://p2.music.126.net/Xp9hKoRIwimmyJKfznIOQw==/109951169367435681.jpg?param=130y130',
     },
 
-	{
+      {
+        name: '水槽の街から',
+        artist: '照井順政 / みきまりあ',
+        url: 'http://music.163.com/song/media/outer/url?id=2734216430.mp3',
+        cover: 'http://p2.music.126.net/6rQgY_z18vq58_0Vre8Smw==/109951170731154265.jpg?param=130y130',
+    },
+	
+      {
         name: 'Echoism',
         artist: ' Casey Lee Williams ',
         url: 'http://music.163.com/song/media/outer/url?id=2151230759.mp3',
