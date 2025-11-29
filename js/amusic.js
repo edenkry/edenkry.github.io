@@ -17,10 +17,10 @@ const ap = new APlayer({
     },
 
        {
-        name: 'Far Beyond the Stars',
-        artist: '照井順政 / Shania Yan ',
-        url: 'http://music.163.com/song/media/outer/url?id=2734216445.mp3',
-        cover: 'http://p2.music.126.net/ncJRO8JHrz_C0XeyQTLWmQ==/109951171267505811.jpg?param=130y130',
+        name: '胎児の夢',
+        artist: '冬野霧中 ',
+        url: 'http://music.163.com/song/media/outer/url?id=2135292801.mp3',
+        cover: 'http://p2.music.126.net/qKY88u_ehTxRrbjuvqTk5A==/109951169409287246.jpg?param=130y130',
     },
 
       {
@@ -29,14 +29,12 @@ const ap = new APlayer({
         url: 'http://music.163.com/song/media/outer/url?id=426881812.mp3',
         cover: 'http://p2.music.126.net/Xp9hKoRIwimmyJKfznIOQw==/109951169367435681.jpg?param=130y130',
     },
-
-      {
-        name: '水槽の街から',
-        artist: '照井順政 / みきまりあ',
-        url: 'http://music.163.com/song/media/outer/url?id=2734216430.mp3',
-        cover: 'http://p2.music.126.net/6rQgY_z18vq58_0Vre8Smw==/109951170731154265.jpg?param=130y130',
+     {
+        name: 'Serie de Fragmento',
+        artist: 'Novectacle',
+        url: 'http://music.163.com/song/media/outer/url?id=1325166263.mp3',
+        cover: 'http://p2.music.126.net/i1BVCMzbHGf6Tw0EfnEFbA==/109951165241032555.jpg?param=130y130',
     },
-	
       {
         name: 'Echoism',
         artist: ' Casey Lee Williams ',
