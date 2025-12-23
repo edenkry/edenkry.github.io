@@ -9,6 +9,7 @@ const ap = new APlayer({
         url: 'http://music.163.com/song/media/outer/url?id=1449639586.mp3',
         cover: 'http://p2.music.126.net/MniY0Vwv5rb6f_mqyn95ew==/109951165003502285.jpg?param=130y130',
     },
+
        {
         name: 'JANE DOE',
         artist: '米津玄師 / 宇多田ヒカル ',
@@ -18,9 +19,16 @@ const ap = new APlayer({
 
        {
         name: '胎児の夢',
-        artist: '冬野霧中 ',
+        artist: '冬野霧中',
         url: 'http://music.163.com/song/media/outer/url?id=2135292801.mp3',
         cover: 'http://p2.music.126.net/qKY88u_ehTxRrbjuvqTk5A==/109951169409287246.jpg?param=130y130',
+    },
+
+      {
+        name: 'ALONE to ALONE',
+        artist: 'lasah',
+        url: 'http://music.163.com/song/media/outer/url?id=426881812.mp3',
+        cover: 'http://p1.music.126.net/Xp9hKoRIwimmyJKfznIOQw==/109951169367435681.jpg?param=130y130',
     },
 
      {
