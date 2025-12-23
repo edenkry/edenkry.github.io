@@ -23,19 +23,21 @@ const ap = new APlayer({
         cover: 'http://p2.music.126.net/qKY88u_ehTxRrbjuvqTk5A==/109951169409287246.jpg?param=130y130',
     },
 
-      {
-        name: 'ALONE to ALONE',
-        artist: 'lasah ',
-        url: 'http://music.163.com/song/media/outer/url?id=426881812.mp3',
-        cover: 'http://p2.music.126.net/Xp9hKoRIwimmyJKfznIOQw==/109951169367435681.jpg?param=130y130',
-    },
      {
+        name: 'INCIDENT',
+        artist: '水槽/yowa',
+        url: 'http://music.163.com/song/media/outer/url?id=3316942212.mp3',
+        cover: 'http://p2.music.126.net/1rGo_worilqMZWM-OaUefQ==/109951172268934255.jpg?param=130y130',
+    },
+
+      {
         name: 'Serie de Fragmento',
         artist: 'Novectacle',
         url: 'http://music.163.com/song/media/outer/url?id=1325166263.mp3',
         cover: 'http://p2.music.126.net/i1BVCMzbHGf6Tw0EfnEFbA==/109951165241032555.jpg?param=130y130',
     },
-      {
+
+     {
         name: 'Echoism',
         artist: ' Casey Lee Williams ',
         url: 'http://music.163.com/song/media/outer/url?id=2151230759.mp3',
