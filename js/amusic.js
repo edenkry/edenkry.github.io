@@ -11,13 +11,6 @@ const ap = new APlayer({
     },
 
        {
-        name: 'JANE DOE',
-        artist: '米津玄師 / 宇多田ヒカル ',
-        url: 'http://music.163.com/song/media/outer/url?id=2747166493.mp3',
-        cover: 'http://p1.music.126.net/z8vkaskRIKrLhTZ0zrqzDg==/109951172028084335.jpg?param=130y130',
-    },
-
-       {
         name: '胎児の夢',
         artist: '冬野霧中',
         url: 'http://music.163.com/song/media/outer/url?id=2135292801.mp3',
@@ -31,11 +24,11 @@ const ap = new APlayer({
         cover: 'http://p1.music.126.net/Xp9hKoRIwimmyJKfznIOQw==/109951169367435681.jpg?param=130y130',
     },
 
-     {
-        name: 'INCIDENT',
-        artist: '水槽/yowa',
-        url: 'http://music.163.com/song/media/outer/url?id=3316942212.mp3',
-        cover: 'http://p2.music.126.net/1rGo_worilqMZWM-OaUefQ==/109951172268934255.jpg?param=130y130',
+      {
+        name: '远航星的告别',
+        artist: 'Tarokiki/Emi Evans',
+        url: 'http://music.163.com/song/media/outer/url?id=3346496288.mp3',
+        cover: 'http://p2.music.126.net/Ao3z8Adsv-yzXfN6LjKPyw==/109951172692547015.jpg?param=130y130',
     },
 
       {
