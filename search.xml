@@ -2123,7 +2123,7 @@
   <entry>
     <title>电影时间</title>
     <url>/2025/09/27/movie/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>虽说本就是人数最多的部门，最近的波塞冬也还是显得格外忙碌。成员抱着终端和设备匆匆在部门之中穿行，不时听到一句”抱歉，借过。”，“啊，没有伤着你吧？”这样的字句。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>虽说本就是人数最多的部门，最近的波塞冬也还是显得格外忙碌。成员抱着终端和设备匆匆在部门之中穿行，不时听到一句“抱歉，借过。”，“啊，没有伤着你吧？”这样的字句。</p>
 <p>一切的源头都要追溯至几天前的一次爆炸。说爆炸也略微显得有点夸张，爆炸源是一个大小不足一台普通主机机箱的方形设备，只是伴随爆炸结束后产生的，类似诡异磁场一样的东西让波塞冬的其他设备发生了各种程度的死机。</p>
 <p>源头依然没有被查清，但眼下让一切恢复如常才是最要紧的事情。于是，波塞冬的成员们开始了昼夜不分的抢修维护，好在效果还算喜人，设备都在逐渐恢复工作。唯一在朝着报废狂奔的部门的咖啡机，超负荷运转的工作量也可以看到尽头了。</p>
 <p>“……这又是什么东西？”</p>
@@ -10371,8 +10371,8 @@
 <p>亲爱的泽菲琳： </p>
 <p>  此刻，在宇宙的一隅，我提笔书写着这封寄给你的信件，这件事着实有些难以想象，就连我自己也为此感到惊讶。 </p>
 <p>我正暂时落脚于一颗陌生星球，这颗星球似乎是整个星系的交通枢纽，居民的生命构成与人类相似，但外表又有些不同，社会形态也更为简单。又通过一些特殊的方法，我成功与本地住民们进行了沟通。</p>
-<p>  嗯.稍微有些遗憾的是，我没能在这颗星球找到我所需的酿造素材，所以，回地球的时间安排只能暂时与预定一致了。 </p>
-<p>  不过，在他们的邀请下，我来到了一处类似酒馆的信局。住民们驱使的信使生物会将信息送到宇宙的每个角落.这么说来，信使生物的外形又与我目前的坐骑有些相似，可惜不能用它给你送信。 </p>
+<p>  嗯…稍微有些遗憾的是，我没能在这颗星球找到我所需的酿造素材，所以，回地球的时间安排只能暂时与预定一致了。 </p>
+<p>  不过，在他们的邀请下，我来到了一处类似酒馆的信局。住民们驱使的信使生物会将信息送到宇宙的每个角落…这么说来，信使生物的外形又与我目前的坐骑有些相似，可惜不能用它给你送信。 </p>
 <p>  根据计算，地球的时间应当已经接近圣诞，有没有和朋友们一同好好度过这个重要的日子呢？ </p>
 <p>  对我而言，圣诞节的时光也是难忘的回忆。</p>
 <p>  圣夜还未至之时，商业街的树上就已经挂满了流光溢彩的小灯。幼小的孩子在路旁为雪人戴上帽子，而朋友们相聚在一起庆贺，邀请彼此的恋人或家人加入派对，在壁炉的火光旁交换礼物。 </p>
@@ -10393,8 +10393,7 @@
 <p>“…….?”</p>
 <p>“……………”</p>
 <p>“这封信是哪来的？”</p>
- <br>
-
+<p> <br> <br></p>
 <p> <br><strong>To Cosmos</strong></p>
  <br>
 
@@ -10423,7 +10422,7 @@
 <p>“好耶！亲亲！”</p>
 ]]></content>
       <categories>
-        <category>原创</category>
+        <category>原创/合作</category>
       </categories>
       <tags>
         <tag>coctrpg</tag>
