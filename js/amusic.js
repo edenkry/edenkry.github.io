@@ -3,7 +3,20 @@ const ap = new APlayer({
     fixed: true,
 	  autoplay: false, //关闭自动播放
     audio: [
-       {
+    {
+        name: 'Down by the river',
+        artist: 'Borislav Slavov',
+        url: 'http://music.163.com/song/media/outer/url?id=2071572529.mp3',
+        cover: 'http://p1.music.126.net/HaAJEb-IL6P2884MA-defQ==/109951168827050415.jpg?param=130y130',
+    },
+
+     {
+        name: '月终恒常于瞬息',
+        artist: 'jixwang/Gemie',
+        url: 'http://music.163.com/song/media/outer/url?id=2747639655.mp3',
+        cover: 'http://p2.music.126.net/5t6zgbXZdvgyoDJlPVeVUg==/109951172033030924.jpg?param=130y130',
+    },
+     {
         name: 'Twilight',
         artist: 'Novectacle',
         url: 'http://music.163.com/song/media/outer/url?id=1449639586.mp3',
